@@ -1,0 +1,3 @@
+[submodule "linux-xlnx"]
+	path = linux-xlnx
+	url = git@github.com:logicbricks/linux-xlnx.git
